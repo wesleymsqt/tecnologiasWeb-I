@@ -26,7 +26,7 @@ Este repositório é destinado para fins educacionais. Desenvolvido como parte d
 
 ---
 
-**👨‍💻 Autor**: [Francisco Wesley Pereira Mesquita]  
+**👨‍💻 Autor**: Francisco Wesley Pereira Mesquita  
 **📧 Contato**: wesleymsqt@alu.ufc.br  
 **🔗 GitHub**: [github.com/wesleymsqt](https://github.com/wesleymsqt)  
 
